@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Hello, world!",
+    "content": "This is my first blog post.",
+    "author": "John Doe",
+    "publishedAt": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "A new day",
+    "content": "Today I woke up and saw a beautiful sunrise.",
+    "author": "Jane Doe",
+    "publishedAt": "2023-01-02T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "The joys of programming",
+    "content": "Why I love working with TypeScript and React.",
+    "author": "John Doe",
+    "publishedAt": "2023-01-03T00:00:00Z"
+  },
+]
